@@ -1,1 +1,4 @@
 tekst-1-1
+ddd
+ddd
+koniec pliku
