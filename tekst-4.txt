@@ -3,3 +3,6 @@ xxx
 zzzzzz
 dddddddd
 koniec
+ccccccc
+fffffff
+koniec zmian
