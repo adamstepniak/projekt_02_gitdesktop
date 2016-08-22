@@ -6,3 +6,7 @@ koniec
 ccccccc
 fffffff
 koniec zmian
+dddd
+dddd
+fff
+koniec zmian
