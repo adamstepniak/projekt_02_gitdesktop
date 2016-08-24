@@ -1,2 +1,4 @@
 tekst-8
 xxx
+zmiana AS
+koniec wpisu AS
