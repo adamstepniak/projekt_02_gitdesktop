@@ -1,2 +1,4 @@
 tekst-6
 xxx
+ds-zmiana w wariancie-2
+koniec wpisu ds

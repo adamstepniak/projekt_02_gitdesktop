@@ -1,2 +1,4 @@
 tekst-7
 xxx
+ds - dodany wpis
+koniec wpisu ds
